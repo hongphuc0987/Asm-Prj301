@@ -1,0 +1,42 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 9 thg 7, 2023, 12:38:34
+    Author     : tranthihongphuc
+*/
+
+body{
+    background-image: url('https://static.vecteezy.com/system/resources/previews/011/539/493/original/seamless-pattern-vegetables-berries-and-fruits-background-it-can-be-used-for-wrapping-paper-packages-brochures-and-flyers-free-vector.jpg');
+
+}
+.login{
+    border:2px solid grey;
+    text-align: center;
+    width:20%;
+    background-color: rgba(255,255,255,0.8);
+    position: absolute;
+    left:0;
+    right:0;
+    top:40%;
+    margin:0 auto;
+    padding:2px;
+}
+
+.table p input{
+    width:50%;
+    padding:5px;
+}
+
+.button:hover{
+    background-color: green;
+    font-weight:bolder;
+    transition: 1s ease-in-out;
+}
+.create{
+    text-decoration: none;
+    border:2px solid;
+    padding:5px;
+    color:black;
+}
